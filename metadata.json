@@ -1,0 +1,5 @@
+{
+  "name": "JobGrab AI Explorer",
+  "description": "A sophisticated AI-powered job search engine using Gemini and Google Search grounding to find real-time job listings based on specific locations and timeframes.",
+  "requestFramePermissions": []
+}
